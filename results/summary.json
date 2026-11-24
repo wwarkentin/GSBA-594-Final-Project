@@ -1,0 +1,10 @@
+{
+  "model_rides": 420,
+  "development_rides": 331,
+  "evaluation_rides": 89,
+  "selected_by_development_cv": "Recent 28-day mean",
+  "lowest_later_period_MAE": "Ridge regression",
+  "evaluation_status": "Exploratory later-period comparison, previously inspected. No new blind test claimed.",
+  "output_unit": "Masked output index, not original power units.",
+  "privacy": "Data minimization and masking reduce exposure but are not guaranteed anonymization."
+}

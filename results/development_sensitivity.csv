@@ -1,0 +1,11 @@
+model,MAE_index,scenario,development_rides
+Class group mean,0.853006193918143,Longer-class subset,315
+Random forest,1.051525620059998,Longer-class subset,315
+Recent 28-day mean,0.5669134426481334,Longer-class subset,315
+Ridge regression,1.3605569338121766,Longer-class subset,315
+Training mean,0.9468928803098245,Longer-class subset,315
+Class group mean,0.6275989336903197,Recent development window,204
+Random forest,0.5874741470078796,Recent development window,204
+Recent 28-day mean,0.5826252810197546,Recent development window,204
+Ridge regression,0.5661975563354965,Recent development window,204
+Training mean,0.7241800481634634,Recent development window,204
